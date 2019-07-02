@@ -1,0 +1,100 @@
+{
+  "configVersion": 1,
+  "timestamp": 1562066865674,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.5231a588b06c5c76ba12.js",
+        "/main-es5.73fbfdc35b7c5835edee.js",
+        "/polyfills-es2015.27661dfa98f6332c27dc.js",
+        "/polyfills-es5.405730e5ac8f727bd7d7.js",
+        "/runtime-es2015.858f8dd898b75fe86926.js",
+        "/runtime-es5.741402d1d47331ce975c.js",
+        "/styles.32e88cc7b0ae398d45b6.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/launch-1125x2436.png",
+        "/assets/icons/launch-1242x2148.png",
+        "/assets/icons/launch-1536x2048.png",
+        "/assets/icons/launch-1668x2224.png",
+        "/assets/icons/launch-2048x2732.png",
+        "/assets/icons/launch-640x1136.png",
+        "/assets/icons/launch-750x1294.png",
+        "/assets/images/anunta-192x192.png",
+        "/assets/images/anunta-512x512.png",
+        "/assets/images/anunta.png",
+        "/assets/images/anuntaColor.png",
+        "/assets/images/apple-touch-icon.png",
+        "/assets/images/desktop.png",
+        "/assets/images/favicon-16x16.png",
+        "/assets/images/favicon-32x32.png",
+        "/assets/images/mobile_components.png",
+        "/assets/images/mobile_dial.png",
+        "/assets/images/web_components.png",
+        "/assets/images/web_dial.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/launch-1125x2436.png": "4f4966129de70aad30d8c4b880250fc43298ec25",
+    "/assets/icons/launch-1242x2148.png": "a6a4089fd0b637d722bba14be2aaa226e7c0b45a",
+    "/assets/icons/launch-1536x2048.png": "9a159c976a6764828fba77d0053ae8439edc835f",
+    "/assets/icons/launch-1668x2224.png": "c1d55998a8fe3f772304b074316d5354a17380f1",
+    "/assets/icons/launch-2048x2732.png": "e7c9a8cd12d12a9df5877b330a16d9ee312c41e9",
+    "/assets/icons/launch-640x1136.png": "1da0feca578e2011c300e10f51ffa1b1f8e46553",
+    "/assets/icons/launch-750x1294.png": "045390c9114aad1f4f144075a295cfddda0529ae",
+    "/assets/images/anunta-192x192.png": "b9e30fb0be7b79f505bae18a6a18eae362b12459",
+    "/assets/images/anunta-512x512.png": "f31f4cd7c25f9eab087928ca51e55ac1f84189c1",
+    "/assets/images/anunta.png": "3f2a5c0cac2563b1f2577ed9c35597f0de375e13",
+    "/assets/images/anuntaColor.png": "77ddde629909eddbf13b084656ece8ee557189ba",
+    "/assets/images/apple-touch-icon.png": "84522256a568f379617da23d3c76c158105c62f4",
+    "/assets/images/desktop.png": "ca1448e78ddc6cba8598d284eb69ceb21d191b41",
+    "/assets/images/favicon-16x16.png": "4ad0fa7faf6e86a901aab362d3062e581a68817d",
+    "/assets/images/favicon-32x32.png": "563daec73c92b8131e1d24002e5025718a8ff739",
+    "/assets/images/mobile_components.png": "28f460dbd8c8a8724aee8ee335d9f16daadcaade",
+    "/assets/images/mobile_dial.png": "fc1bdd3ff56cfce56e8a49ce22abe83f3f494f14",
+    "/assets/images/web_components.png": "09f867a0aa4fbeff0d662ffee61c89949f599436",
+    "/assets/images/web_dial.png": "908ae7c3d5c40772ea4890574154293501696db5",
+    "/favicon.ico": "d08455c952fd7b7a152f52e73721196f92ca23bc",
+    "/index.html": "a800c5d39f1b8cb9f9cb21f6ec43a92f2d556ea5",
+    "/main-es2015.5231a588b06c5c76ba12.js": "3d124709461b43080f255254a1591e372d3123b7",
+    "/main-es5.73fbfdc35b7c5835edee.js": "1790acf755d4c71711559eb1f7c6ae18385f9786",
+    "/polyfills-es2015.27661dfa98f6332c27dc.js": "77f974dd2b186031cfc4f4526d96db4efcd39353",
+    "/polyfills-es5.405730e5ac8f727bd7d7.js": "042d7744ef82a64c73310f1db253736731a03950",
+    "/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.32e88cc7b0ae398d45b6.css": "f04d5c0e681d9b96861381380f2470d58dbe2d45"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
